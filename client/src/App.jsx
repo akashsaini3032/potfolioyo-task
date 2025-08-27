@@ -70,6 +70,8 @@ export default function App() {
         </div>
       </section> */}
 
+      <h1>Akash Bhai</h1>
+
       {/* Footer */}
       {/* <footer className="footer">
         <p>© {new Date().getFullYear()} Manish. All rights reserved.</p>
